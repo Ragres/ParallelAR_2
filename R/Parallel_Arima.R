@@ -1,5 +1,5 @@
-library(snow)
-library(parallel)
+#' @import snow
+#' @import parallel
 Mejor_arima=function(final_i,final_j,datos){
   n=detectCores()
   cl<-makeCluster(n,type="SOCK")
