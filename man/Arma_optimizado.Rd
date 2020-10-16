@@ -38,7 +38,7 @@ Victor Alanis
 }
 \note{
 Aunque el ciclo esta optimizado arriba de 20 sigue tardandose
-
+}
 \seealso{
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
