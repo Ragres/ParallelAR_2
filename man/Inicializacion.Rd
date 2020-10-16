@@ -1,7 +1,7 @@
 \name{Inicializacion}
 \alias{Inicializacion}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{Inicializacion
 %%  ~~function to do ... ~~
 }
 \description{
