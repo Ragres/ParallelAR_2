@@ -22,4 +22,6 @@ ARMA_Optimizado=function(i,j,datos){
     }
   }
   return(list(c(a[orden,1],0,a[orden,2]),mejorA))
+  stopCluster(cl)
 }
+
