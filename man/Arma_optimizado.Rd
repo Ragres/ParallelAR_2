@@ -1,7 +1,7 @@
 \name{ARMA_Optimizado}
 \alias{ARMA_Optimizado}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{ "Optimiza el proceso de doble ciclo ARMA"
+\title{ Optimiza el proceso de doble ciclo ARMA
 %%  ~~function to do ... ~~
 }
 \description{
